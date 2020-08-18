@@ -175,4 +175,19 @@ input[type="text"] {
         width: 300px;
     }
 
+    .single-meal {
+        margin: 20px auto;
+        width: 90%;
+
+    }
+
+    .single-meal h1 {
+        font-size: 32px;
+
+    }
+
+    .single-meal img {
+        margin: auto;
+    }
+
 }
